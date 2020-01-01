@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include millennium_website *.css
+recursive-include millennium_website *.csv
+recursive-include millennium_website *.html
+recursive-include millennium_website *.ico
+recursive-include millennium_website *.js
+recursive-include millennium_website *.json
+recursive-include millennium_website *.md
+recursive-include millennium_website *.png
+recursive-include millennium_website *.py
+recursive-include millennium_website *.svg
+recursive-include millennium_website *.txt
+recursive-exclude millennium_website *.pyc
