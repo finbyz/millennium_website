@@ -4,4 +4,4 @@ Millennium Website app
 
 #### License
 
-MIT
+GPL 3.0
